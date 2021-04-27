@@ -14,26 +14,37 @@ Google Cloud Workshop - Spring 2021
 [Reference architecture & tutorial](https://cloud.google.com/architecture/setting-up-a-hipaa-aligned-project)
 
 
-## 2. Run GATK Best Practices pipelines on WGS data with Cromwell using Google Cloud Life Sciences API
+## 2. Extract healthcare entities and visualize medical data using Healthcare Natural Language API
+
+#### Tutorial
+
+*  [AutoML for Healthcare Entity Extraction](https://cloud.google.com/natural-language/automl/docs/automl-healthcare)
+*  [Healthcare NLP Visualiser Demo - GitHub](https://github.com/GoogleCloudPlatform/healthcare-nlp-visualizer-demo)
+
+#### Links
+
+*  [Healthcare Natural Language API Documentation](https://cloud.google.com/healthcare/docs/concepts/nlp)
+
+## 3. Run GATK Best Practices pipelines on WGS data with Cromwell using Google Cloud Life Sciences API
 
 #### Tutorial
 
 [Running GATK Best Practices](https://cloud.google.com/life-sciences/docs/tutorials/gatk)
 
-## 3. Transform and import variant data from VCFs to BigQuery with Variant Transforms.
+## 4. Transform and import variant data from VCFs to BigQuery with Variant Transforms.
 
 #### Links
 
 *  [Variant Transforms - GitHub](https://github.com/googlegenomics/gcp-variant-transforms)
 
-## 4. Use Public Datasets to join with your own data
+## 5. Use Public Datasets to join with your own data
 
 #### Links
 
 *  [Life Sciences Public Datasets](https://cloud.google.com/life-sciences/docs/resources/public-datasets
 )
 
-## 5. Perform variant analysis using BigQuery, Jupyter notebooks, and tools such as Hail
+## 6. Perform variant analysis using BigQuery, Jupyter notebooks, and tools such as Hail
 
 ### BigQuery - SQL
 
